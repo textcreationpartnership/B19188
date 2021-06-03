@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings resolvtion concerning Portsmouth and Colonell Goring wherein is declared his intention to send in forces to the said towne : also the resolution of the gentry and commonaltie of Hampshiere, concerning the opposing all those that shall endeavour to put any forces into the said towne to keepe it against the Parliament : whereunto is annex't the Parliaments determination concerning the Earle of Portland : also a new declaration of the Lords and Commons, concerning Wells, and the cavaliers in Summerset-Shiere with the Parliaments command to Colonell Goring, to resigne the towne of Portsmouth to the hands of such as they have appointed.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19188</idno><idno type="EEBO-CITATION">12258154</idno>
+  <idno type="VID">197475</idno>
+  <idno type="EEBO-PROQUEST">2240962076</idno>
+  
+            <idno type="STC">Wing C2747</idno>
+            <idno type="OCLC">12258154</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E112, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings resolvtion concerning Portsmouth and Colonell Goring wherein is declared his intention to send in forces to the said towne : also the resolution of the gentry and commonaltie of Hampshiere, concerning the opposing all those that shall endeavour to put any forces into the said towne to keepe it against the Parliament : whereunto is annex't the Parliaments determination concerning the Earle of Portland : also a new declaration of the Lords and Commons, concerning Wells, and the cavaliers in Summerset-Shiere with the Parliaments command to Colonell Goring, to resigne the towne of Portsmouth to the hands of such as they have appointed.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Rider,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 13, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A narrative.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="personal_name">Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Portsmouth (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197475:1"/>
+            <p>THE KINGS RESOLVTION, Concerning <hi>Portsmouth,</hi> and Colonell GORING.</p>
+            <p>Wherein is declared His intention to send in forces to the said Towne.</p>
+            <p>
+               <hi>ALSO</hi> The Resolution of the <hi>Gentry,</hi> and <hi>Commonaltie</hi> of <hi>Hampshiere,</hi> concerning the opposing all those that shall endeavour to put any forces into the said Towne to keepe it against the PARLIAMENT.</p>
+            <p>Whereunto is annex't the Parliaments Determination concerning the Earle of <hi>Portland.</hi>
+            </p>
+            <p>
+               <hi>Also a new Declaration of the Lords and Commons,</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Wells,</hi> and the Cavalieres in Summerset-shiere, with the Parli<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments command to Colonell <hi>Go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</hi> to resigne the Towne of <hi>Portsmouth</hi> to the hands of such as they have app<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be printed,</p>
+                        <closer>
+                           <signed>Hen. Elsing. Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted for <hi>T. Rider, Aug.</hi> 13. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197475:2"/>
+            <pb n="3" facs="tcp:197475:2"/>
+            <head>The King's Resolution, Concerning <hi>Portsmouth</hi> and Colonell <hi>Goring.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> having re<g ref="char:EOLhyphen"/>ceived a message from Colonell <hi>Goring,</hi> that hee was resolved to resign the town of <hi>Portsmouth</hi> into his <hi>Majesties</hi> hands, and with<g ref="char:EOLhyphen"/>all certifying his <hi>Majesty</hi> how strong a party hee had got in the
+<pb n="4" facs="tcp:197475:3"/>town to side with him. His <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi> graciously accepted his prof<g ref="char:EOLhyphen"/>fer'd service, withal certifying him by a Gentleman which was imploi<g ref="char:EOLhyphen"/>ed by the said Collonell <hi>Goring,</hi> that his <hi>Majesties</hi> Resolution was with all speed to send him in sup<g ref="char:EOLhyphen"/>plyes to strengthen the town, to the end that the said Collonell <hi>Goring</hi> might be enabled to perform what he had promised, with all encou<g ref="char:EOLhyphen"/>raging him on to a continuance of that his resolution, promising to se<g ref="char:EOLhyphen"/>cure him, and stand betwixt him and what ever should happen, by his performance of that action.</p>
+            <p>Neverthelesse the Gentry and commonalty of <hi>Hampshire,</hi> having private intelligence of his <hi>Maje<g ref="char:EOLhyphen"/>sties</hi>
+               <pb n="5" facs="tcp:197475:3"/>intention, and knowing that if forces were entered, and the town fortified, the Isle of <hi>Wight</hi> being as yet not possest by the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> thought it most convenient to make a timely prevention, the hinderance of an avoidable ruin, to which end they drew up such forces as the country could afford, and surrounded <hi>Portsmouth,</hi> so that no forces can either march in or out, but what are admitted by them; neverthelesse they have, nor will not put any thing in executi<g ref="char:EOLhyphen"/>on till they receive order and dire<g ref="char:EOLhyphen"/>ction from the <hi>Parliament,</hi> withall promising to stand close to the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and to hazard their lives &amp; fortunes in the maintenance of the
+<pb n="6" facs="tcp:197475:4"/>true Protestant Religion, and the just Priviledges of <hi>Parliament.</hi>
+            </p>
+            <p>The <hi>Lords</hi> and <hi>Commons</hi> likewise taking into serious consideration the great danger that the town of <hi>Portsmouth</hi> was in by reason that the Isle of <hi>Wight</hi> was in the govern<g ref="char:EOLhyphen"/>ment of the Earle of <hi>Portland,</hi> who is suspected to be a <hi>Papist,</hi> his mo<g ref="char:EOLhyphen"/>ther and most of his friends being known <hi>Papists,</hi> wherfore at a con<g ref="char:EOLhyphen"/>ference it was moved that the Ca<g ref="char:EOLhyphen"/>stle of that Island might be put in<g ref="char:EOLhyphen"/>to such hands as the <hi>Parliament</hi> might confide in, untill it was se<g ref="char:EOLhyphen"/>cured in such a trust, that the said Earle might be put in safe custody. VVhere after they had spent some time in the consideration thereof,
+<pb n="7" facs="tcp:197475:4"/>they made choyce of the Earle of <hi>Pembrook,</hi> to take the charge thereof, and till he had possession of the said Fort and Island; The Earle was committed to Sheriffe <hi>Garret,</hi> to be kept in safe custody.</p>
+            <p>Likewise the Lords and Commons con<g ref="char:EOLhyphen"/>cluded that a joynt order should be issued forth to Colonell <hi>Goring</hi> to command him to deliver up the said Town to such as they appointed, which Order issued, and a Mes<g ref="char:EOLhyphen"/>senger did packet therewith.</p>
+            <p>Likewise the Lords and Commons have endeavoured to prevent the bringing in of any Forces out of one County into another, as may appeare by this their Determination and Declaration concerning <hi>Wells</hi> in <hi>Som<g ref="char:EOLhyphen"/>merset-shiere.</hi> For they have ordered that the high Sheriff of the County of <hi>Sommerset,</hi> and the Deputy Lieutenants and Committees of the said County, and the forces that shall be sent down to the assistance of the said Depu<g ref="char:EOLhyphen"/>ty Lieutenants and Committee, be all requi<g ref="char:EOLhyphen"/>red to use their lest endeavors to prevent the comming in of any other forces, and to the apprehending and sending up to the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> the Delinquents voted of that County.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
